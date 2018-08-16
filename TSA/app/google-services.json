@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "357651896443",
+    "firebase_url": "https://studyshare-de917.firebaseio.com",
+    "project_id": "studyshare-de917",
+    "storage_bucket": "studyshare-de917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357651896443:android:802c9832504ad970",
+        "android_client_info": {
+          "package_name": "com.skoolco.tsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357651896443-p47fsnjvkmsqp256fi6tj2g1u027f9ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIPpcXFx1ctCeIgSjlfCKjTdz8VZwXHqI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
